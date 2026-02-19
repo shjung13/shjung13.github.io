@@ -1,115 +1,190 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
+@String(PAMI = {IEEE Trans. Pattern Anal. Mach. Intell.})
+@String(IJCV = {Int. J. Comput. Vis.})
+@String(CVPR= {IEEE Conf. Comput. Vis. Pattern Recog.})
+@String(ICCV= {Int. Conf. Comput. Vis.})
+@String(ECCV= {Eur. Conf. Comput. Vis.})
+@String(NIPS= {Adv. Neural Inform. Process. Syst.})
+@String(ICPR = {Int. Conf. Pattern Recog.})
+@String(BMVC= {Brit. Mach. Vis. Conf.})
+@String(TOG= {ACM Trans. Graph.})
+@String(TIP  = {IEEE Trans. Image Process.})
+@String(TVCG  = {IEEE Trans. Vis. Comput. Graph.})
+@String(TMM  = {IEEE Trans. Multimedia})
+@String(ACMMM= {ACM Int. Conf. Multimedia})
+@String(ICME = {Int. Conf. Multimedia and Expo})
+@String(ICASSP=	{ICASSP})
+@String(ICIP = {IEEE Int. Conf. Image Process.})
+@String(ACCV  = {ACCV})
+@String(ICLR = {Int. Conf. Learn. Represent.})
+@String(IJCAI = {IJCAI})
+@String(PR   = {Pattern Recognition})
+@String(AAAI = {AAAI})
+@String(CVPRW= {IEEE Conf. Comput. Vis. Pattern Recog. Worksh.})
+@String(CSVT = {IEEE Trans. Circuit Syst. Video Technol.})
 
-@book{einstein1920relativity,
-  title     = {Relativity: the Special and General Theory},
-  author    = {Einstein, Albert},
-  year      = {1920},
-  publisher = {Methuen & Co Ltd},
-  html      = {relativity.html}
+@String(SPL	= {IEEE Sign. Process. Letters})
+@String(VR   = {Vis. Res.})
+@String(JOV	 = {J. Vis.})
+@String(TVC  = {The Vis. Comput.})
+@String(JCST  = {J. Comput. Sci. Tech.})
+@String(CGF  = {Comput. Graph. Forum})
+@String(CVM = {Computational Visual Media})
+
+
+@String(PAMI  = {IEEE TPAMI})
+@String(IJCV  = {IJCV})
+@String(CVPR  = {CVPR})
+@String(ICCV  = {ICCV})
+@String(ECCV  = {ECCV})
+@String(NIPS  = {NeurIPS})
+@String(ICPR  = {ICPR})
+@String(BMVC  =	{BMVC})
+@String(TOG   = {ACM TOG})
+@String(TIP   = {IEEE TIP})
+@String(TVCG  = {IEEE TVCG})
+@String(TCSVT = {IEEE TCSVT})
+@String(TMM   =	{IEEE TMM})
+@String(ACMMM = {ACM MM})
+@String(ICME  =	{ICME})
+@String(ICASSP=	{ICASSP})
+@String(ICIP  = {ICIP})
+@String(ACCV  = {ACCV})
+@String(ICLR  = {ICLR})
+@String(IJCAI = {IJCAI})
+@String(PR = {PR})
+@String(AAAI = {AAAI})
+@String(CVPRW= {CVPRW})
+@String(CSVT = {IEEE TCSVT})
+
+@article{han2025model,
+  title={Model Predictive Adversarial Imitation Learning for Planning from Observation},
+  author={Han, Tyler and Bao, Yanda and Mehta, Bhaumik and Guo, Gabriel and Vishwakarma, Anubhav and Kang, Emily and Jung, Sanghun and Scalise, Rosario and Zhou, Jason and Xu, Bryan and others},
+  booktitle={International Conference on Learning Representations},
+  year={2026}
 }
 
-@book{einstein1956investigations,
-  bibtex_show = {true},
-  title       = {Investigations on the Theory of the Brownian Movement},
-  author      = {Einstein, Albert},
-  year        = {1956},
-  publisher   = {Courier Corporation},
-  preview     = {brownian-motion.gif}
+@InProceedings{pmlr-v305-jung25b,
+  title = 	 {Uncertainty-aware Accurate Elevation Modeling for Off-road Navigation via Neural Processes},
+  author =       {Jung, Sanghun and Gwak, Daehoon and Boots, Byron and Hays, James},
+  booktitle = 	 {Proceedings of The 9th Conference on Robot Learning},
+  pages = 	 {2802--2822},
+  year = 	 {2025},
+  editor = 	 {Lim, Joseph and Song, Shuran and Park, Hae-Won},
+  volume = 	 {305},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {27--30 Sep},
+  publisher =    {PMLR},
+  pdf = 	 {https://raw.githubusercontent.com/mlresearch/v305/main/assets/jung25b/jung25b.pdf},
+  url = 	 {https://proceedings.mlr.press/v305/jung25b.html},
+  abstract = 	 {Terrain elevation modeling for off-road navigation aims to accurately estimate changes in terrain geometry in real-time and quantify the corresponding uncertainties. Having precise estimations and uncertainties plays a crucial role in planning and control algorithms to explore safe and reliable maneuver strategies. However, existing approaches, such as Gaussian Processes (GPs) and neural network-based methods, often fail to meet these needs. They are either unable to perform in real-time due to high computational demands, underestimating sharp geometry changes, or harming elevation accuracy when learned with uncertainties. Recently, Neural Processes (NPs) have emerged as a promising approach that integrates the Bayesian uncertainty estimation of GPs with the efficiency and flexibility of neural networks. Inspired by NPs, we propose an effective NP-based method that precisely estimates sharp elevation changes and quantifies the corresponding predictive uncertainty without losing elevation accuracy. Our method leverages semantic features from LiDAR and camera sensors to improve interpolation and extrapolation accuracy in unobserved regions. Also, we introduce a local ball-query attention mechanism to effectively reduce the computational complexity of global attention by 17% while preserving crucial local and spatial information. We evaluate our method on off-road datasets having interesting geometric features, collected from trails, deserts, and hills. Our results demonstrate superior performance over baselines and showcase the potential of neural processes for effective and expressive terrain modeling in complex off-road environments.}
 }
 
-@article{einstein1950meaning,
-  abbr        = {AJP},
-  bibtex_show = {true},
-  title       = {The meaning of relativity},
-  author      = {Einstein, Albert and Taub, AH},
-  journal     = {American Journal of Physics},
-  volume      = {18},
-  number      = {6},
-  pages       = {403--404},
-  year        = {1950},
-  publisher   = {American Association of Physics Teachers}
+@article{meng2025aim,
+  title={Aim my robot: Precision local navigation to any object},
+  author={Meng, Xiangyun and Yang, Xuning and Jung, Sanghun and Ramos, Fabio and Jujjavarapu, Sri Sadhan and Paul, Sanjoy and Fox, Dieter},
+  journal={IEEE Robotics and Automation Letters},
+  year={2025},
+  publisher={IEEE}
 }
 
-@article{PhysRev.47.777,
-  abbr              = {PhysRev},
-  title             = {Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author            = {Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
-  abstract          = {In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal           = {Phys. Rev.},
-  location          = {New Jersey},
-  volume            = {47},
-  issue             = {10},
-  pages             = {777--780},
-  numpages          = {0},
-  year              = {1935},
-  month             = {May},
-  publisher         = aps,
-  doi               = {10.1103/PhysRev.47.777},
-  url               = {https://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html              = {https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf               = {example_pdf.pdf},
-  altmetric         = {248277},
-  dimensions        = {true},
-  google_scholar_id = {qyhmnyLat1gC},
-  video             = {https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info   = {. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  annotation        = {* Example use of superscripts<br>† Albert Einstein},
-  selected          = {true},
-  inspirehep_id     = {3255}
+@inproceedings{han2025wheeled,
+  title={Wheeled Lab: Modern Sim2Real for Low-cost, Open-source Wheeled Robotics},
+  author={Han, Tyler and Shah, Preet and Rajagopal, Sidharth and Bao, Yanda and Jung, Sanghun and Talia, Sidharth and Guo, Gabriel and Xu, Bryan and Mehta, Bhaumik and Romig, Emma and others},
+  booktitle={Conference on Robot Learning},
+  pages={906--923},
+  year={2025},
+  organization={PMLR}
 }
 
-@article{einstein1905molekularkinetischen,
-  title     = {{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author    = {Einstein, A.},
-  journal   = {Annalen der physik},
-  volume    = {322},
-  number    = {8},
-  pages     = {549--560},
-  year      = {1905},
-  publisher = {Wiley Online Library}
+@inproceedings{jung2025details,
+  title={Details matter for indoor open-vocabulary 3D instance segmentation},
+  author={Jung, Sanghun and Zheng, Jingjing and Zhang, Ke and Qiao, Nan and Chen, Albert YC and Xia, Lu and Liu, Chi and Sun, Yuyin and Zeng, Xiao and Huang, Hsiang-Wei and others},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={9627--9637},
+  year={2025}
 }
 
-@article{einstein1905movement,
-  abbr    = {Ann. Phys.},
-  title   = {Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author  = {Einstein, A.},
-  journal = {Ann. Phys.},
-  volume  = {17},
-  pages   = {549--560},
-  year    = {1905}
+@inproceedings{huang2025zero,
+  title={Zero-shot 3d question answering via voxel-based dynamic token compression},
+  author={Huang, Hsiang-Wei and Chen, Fu-Chen and Chai, Wenhao and Su, Che-Chun and Xia, Lu and Jung, Sanghun and Yang, Cheng-Yen and Hwang, Jenq-Neng and Sun, Min and Kuo, Cheng-Hao},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={19424--19434},
+  year={2025}
 }
 
-@article{einstein1905electrodynamics,
-  title  = {On the electrodynamics of moving bodies},
-  author = {Einstein, A.},
-  year   = {1905}
+@inproceedings{jung2024v,
+  title={V-strong: Visual self-supervised traversability learning for off-road navigation},
+  author={Jung, Sanghun and Lee, JoonHo and Meng, Xiangyun and Boots, Byron and Lambert, Alexander},
+  booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={1766--1773},
+  year={2024},
+  organization={IEEE}
 }
 
-@article{einstein1905photoelectriceffect,
-  bibtex_show = {true},
-  abbr        = {Ann. Phys.},
-  title       = {{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}},
-  author      = {Albert Einstein},
-  abstract    = {This is the abstract text.},
-  journal     = {Ann. Phys.},
-  volume      = {322},
-  number      = {6},
-  pages       = {132--148},
-  year        = {1905},
-  doi         = {10.1002/andp.19053220607},
-  award       = {Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name  = {Nobel Prize}
+@inproceedings{jung2023cafa,
+  title={Cafa: Class-aware feature alignment for test-time adaptation},
+  author={Jung, Sanghun and Lee, Jungsoo and Kim, Nanhee and Shaban, Amirreza and Boots, Byron and Choo, Jaegul},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={19060--19071},
+  year={2023}
 }
 
-@book{przibram1967letters,
-  bibtex_show = {true},
-  title       = {Letters on wave mechanics},
-  author      = {Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year        = {1967},
-  publisher   = {Vision},
-  preview     = {wave-mechanics.gif},
-  abbr        = {Vision}
+@inproceedings{shaban2023lidar,
+  title={Lidar-uda: Self-ensembling through time for unsupervised lidar domain adaptation},
+  author={Shaban*, Amirreza and Lee*, JoonHo and Jung*, Sanghun and Meng, Xiangyun and Boots, Byron},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={19784--19794},
+  year={2023}
+}
+
+@inproceedings{jo2023cg,
+  title={Cg-nerf: Conditional generative neural radiance fields for 3d-aware image synthesis},
+  author={Jo, Kyungmin and Shim, Gyumin and Jung, Sanghun and Yang, Soyoung and Choo, Jaegul},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={724--733},
+  year={2023}
+}
+
+@article{lee20223d,
+  title={3d-gif: 3d-controllable object generation via implicit factorized representations},
+  author={Lee, Minsoo and Chung, Chaeyeon and Cho, Hojun and Kim, Minjung and Jung, Sanghun and Choo, Jaegul and Sung, Minhyuk},
+  journal={arXiv preprint arXiv:2203.06457},
+  year={2022}
+}
+
+@article{lee2022improving,
+  title={Improving evaluation of debiasing in image classification},
+  author={Lee, Jungsoo and Lee, Juyoung and Jung, Sanghun and Choo, Jaegul},
+  journal={arXiv preprint arXiv:2206.03680},
+  year={2022}
+}
+
+@inproceedings{jung2021standardized,
+  title={Standardized max logits: A simple yet effective approach for identifying unexpected road obstacles in urban-scene segmentation},
+  author={Jung*, Sanghun and Lee*, Jungsoo and Gwak, Daehoon and Choi, Sungha and Choo, Jaegul},
+  booktitle={Proceedings of the IEEE/CVF international conference on computer vision},
+  pages={15425--15434},
+  year={2021}
+}
+
+@inproceedings{choi2021robustnet,
+  title={Robustnet: Improving domain generalization in urban-scene segmentation via instance selective whitening},
+  author={Choi*, Sungha and Jung*, Sanghun and Yun, Huiwon and Kim, Joanne T and Kim, Seungryong and Choo, Jaegul},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={11580--11590},
+  year={2021}
+}
+
+@inproceedings{choi2019visualizing,
+  title={Visualizing for the non-visual: Enabling the visually impaired to use visualization},
+  author={Choi, Jinho and Jung, Sanghun and Park, Deok Gun and Choo, Jaegul and Elmqvist, Niklas},
+  booktitle={Computer graphics forum},
+  volume={38},
+  number={3},
+  pages={249--260},
+  year={2019},
+  organization={Wiley Online Library}
 }
