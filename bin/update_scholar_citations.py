@@ -59,6 +59,8 @@ def get_scholar_citations() -> None:
             print(
                 f"Warning: Could not read existing citation data from {OUTPUT_FILE}: {e}. The file may be missing or corrupted."
             )
+    else:
+        existing_data = None
 
     citation_data = {"metadata": {"last_updated": today}, "papers": {}}
 
