@@ -4,7 +4,7 @@ cv:
   email: shjung13 [at] cs.washington.edu
   location: Seattle, WA
   image: ""
-  summary: I am a fourth-year PhD candidate at the University of Washington, where I am advised by Byron Boots. I am interested in visual learning for robotics, bridging the gap between visual perception and robot planning/control.
+  summary: I am a fourth-year PhD candidate at the University of Washington, where I am advised by Prof. Byron Boots. I am interested in visual learning for robotics, bridging the gap between visual perception and robot planning/control.
               My recent research covers general robot perceptions problems in robot navigation including vision-language to navigation, traversability prediction from visual cues by self-supervision and representation learning from LiDAR and images.
 
   social_networks:
