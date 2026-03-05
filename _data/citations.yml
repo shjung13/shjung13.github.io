@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-02-19'
+  last_updated: '2026-03-05'
 papers:
   e7X7O8gAAAAJ:2osOgNQ5qMEC:
-    citations: 207
+    citations: 209
     title: 'Visualizing for the Non-Visual: Enabling the Visually Impaired to Use Visualization'
     year: '2019'
   e7X7O8gAAAAJ:3fE2CSJIrl8C:
@@ -18,15 +18,15 @@ papers:
     title: Zero-shot 3d question answering via voxel-based dynamic token compression
     year: '2025'
   e7X7O8gAAAAJ:IjCSPb-OGe4C:
-    citations: 153
+    citations: 154
     title: 'Standardized max logits: A simple yet effective approach for identifying unexpected road obstacles in urban-scene segmentation'
     year: '2021'
   e7X7O8gAAAAJ:KlAtU1dfN6UC:
-    citations: 0
+    citations: 1
     title: Uncertainty-aware Accurate Elevation Modeling for Off-road Navigation via Neural Processes
     year: '2025'
   e7X7O8gAAAAJ:Se3iqnhoufwC:
-    citations: 53
+    citations: 54
     title: 'V-strong: Visual self-supervised traversability learning for off-road navigation'
     year: '2024'
   e7X7O8gAAAAJ:Tyk-4Ss8FVUC:
@@ -34,7 +34,7 @@ papers:
     title: '3d-gif: 3d-controllable object generation via implicit factorized representations'
     year: '2022'
   e7X7O8gAAAAJ:UeHWp8X0CEIC:
-    citations: 461
+    citations: 464
     title: 'Robustnet: Improving domain generalization in urban-scene segmentation via instance selective whitening'
     year: '2021'
   e7X7O8gAAAAJ:UebtZRa9Y70C:
@@ -46,18 +46,22 @@ papers:
     title: 'DebiasBench: Benchmark for Fair Comparison of Debiasing in Image Classification'
     year: '2022'
   e7X7O8gAAAAJ:WF5omc3nYNoC:
-    citations: 21
+    citations: 22
     title: 'LiDAR-UDA: Self-ensembling Through Time for Unsupervised LiDAR Domain Adaptation'
     year: '2023'
   e7X7O8gAAAAJ:YsMSGLbcyi4C:
     citations: 40
     title: 'Cg-nerf: Conditional generative neural radiance fields for 3d-aware image synthesis'
     year: '2023'
+  e7X7O8gAAAAJ:Zph67rFs4hoC:
+    citations: 0
+    title: Planning from Observation and Interaction
+    year: '2026'
   e7X7O8gAAAAJ:_FxGoFyzp5QC:
-    citations: 36
+    citations: 37
     title: 'Cafa: Class-aware feature alignment for test-time adaptation'
     year: '2023'
   e7X7O8gAAAAJ:kNdYIx-mwKoC:
-    citations: 3
+    citations: 4
     title: Details matter for indoor open-vocabulary 3D instance segmentation
     year: '2025'

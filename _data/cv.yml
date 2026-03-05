@@ -18,7 +18,7 @@ cv:
       - institution: University of Washington
         location: Seattle, WA
         area: Computer Science and Engineering
-        studyType: Ph. D.
+        studyType: Ph.D.
         start_date: 2022
         end_date: present
 
@@ -67,6 +67,13 @@ cv:
 
 
     Publications:
+      - title: Planning from Observation and Interaction
+        authors: Tyler Han, Siyang Shen, Rohan Baijal, Harine Ravichandiran, Bat Nemekhbold, Kevin Huang, Sanghun Jung, Byron Boots
+        publisher: Preprint
+        releaseDate: 2026
+        url: https://arxiv.org/abs/2602.24121
+        # summary: MPAIL2
+
       - title: Model Predictive Adversarial Imitation Learning for Planning from Observation
         authors: Tyler Han, Yanda Bao, Bhaumik Mehta, Gabriel Guo, Sanghun Jung, Anubhav Vishwakarma, Emily Kang, Rosario Scalise, Jason Zhou, Bryan Xu, and Byron Boots
         publisher: ICLR
