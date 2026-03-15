@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-03-05'
+  last_updated: '2026-03-14'
 papers:
   e7X7O8gAAAAJ:2osOgNQ5qMEC:
-    citations: 209
+    citations: 212
     title: 'Visualizing for the Non-Visual: Enabling the Visually Impaired to Use Visualization'
     year: '2019'
   e7X7O8gAAAAJ:3fE2CSJIrl8C:
@@ -14,11 +14,11 @@ papers:
     title: 'Demonstrating Wheeled Lab: Modern Sim2Real for Low-cost, Open-source Wheeled Robotics'
     year: '2025'
   e7X7O8gAAAAJ:8k81kl-MbHgC:
-    citations: 7
+    citations: 9
     title: Zero-shot 3d question answering via voxel-based dynamic token compression
     year: '2025'
   e7X7O8gAAAAJ:IjCSPb-OGe4C:
-    citations: 154
+    citations: 155
     title: 'Standardized max logits: A simple yet effective approach for identifying unexpected road obstacles in urban-scene segmentation'
     year: '2021'
   e7X7O8gAAAAJ:KlAtU1dfN6UC:
@@ -26,7 +26,7 @@ papers:
     title: Uncertainty-aware Accurate Elevation Modeling for Off-road Navigation via Neural Processes
     year: '2025'
   e7X7O8gAAAAJ:Se3iqnhoufwC:
-    citations: 54
+    citations: 57
     title: 'V-strong: Visual self-supervised traversability learning for off-road navigation'
     year: '2024'
   e7X7O8gAAAAJ:Tyk-4Ss8FVUC:
@@ -34,7 +34,7 @@ papers:
     title: '3d-gif: 3d-controllable object generation via implicit factorized representations'
     year: '2022'
   e7X7O8gAAAAJ:UeHWp8X0CEIC:
-    citations: 464
+    citations: 466
     title: 'Robustnet: Improving domain generalization in urban-scene segmentation via instance selective whitening'
     year: '2021'
   e7X7O8gAAAAJ:UebtZRa9Y70C:
@@ -58,7 +58,7 @@ papers:
     title: Planning from Observation and Interaction
     year: '2026'
   e7X7O8gAAAAJ:_FxGoFyzp5QC:
-    citations: 37
+    citations: 39
     title: 'Cafa: Class-aware feature alignment for test-time adaptation'
     year: '2023'
   e7X7O8gAAAAJ:kNdYIx-mwKoC:
