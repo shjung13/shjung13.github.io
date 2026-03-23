@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-14'
+  last_updated: '2026-03-23'
 papers:
   e7X7O8gAAAAJ:2osOgNQ5qMEC:
     citations: 212
@@ -26,7 +26,7 @@ papers:
     title: Uncertainty-aware Accurate Elevation Modeling for Off-road Navigation via Neural Processes
     year: '2025'
   e7X7O8gAAAAJ:Se3iqnhoufwC:
-    citations: 57
+    citations: 61
     title: 'V-strong: Visual self-supervised traversability learning for off-road navigation'
     year: '2024'
   e7X7O8gAAAAJ:Tyk-4Ss8FVUC:
@@ -34,7 +34,7 @@ papers:
     title: '3d-gif: 3d-controllable object generation via implicit factorized representations'
     year: '2022'
   e7X7O8gAAAAJ:UeHWp8X0CEIC:
-    citations: 466
+    citations: 473
     title: 'Robustnet: Improving domain generalization in urban-scene segmentation via instance selective whitening'
     year: '2021'
   e7X7O8gAAAAJ:UebtZRa9Y70C:
