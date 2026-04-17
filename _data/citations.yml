@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-10'
+  last_updated: '2026-04-17'
 papers:
   e7X7O8gAAAAJ:2osOgNQ5qMEC:
-    citations: 212
+    citations: 213
     title: 'Visualizing for the Non-Visual: Enabling the Visually Impaired to Use Visualization'
     year: '2019'
   e7X7O8gAAAAJ:3fE2CSJIrl8C:
@@ -10,7 +10,7 @@ papers:
     title: Model Predictive Adversarial Imitation Learning for Planning from Observation
     year: '2026'
   e7X7O8gAAAAJ:5nxA0vEk-isC:
-    citations: 3
+    citations: 4
     title: 'Demonstrating Wheeled Lab: Modern Sim2Real for Low-cost, Open-source Wheeled Robotics'
     year: '2025'
   e7X7O8gAAAAJ:8k81kl-MbHgC:
@@ -26,7 +26,7 @@ papers:
     title: Uncertainty-aware Accurate Elevation Modeling for Off-road Navigation via Neural Processes
     year: '2025'
   e7X7O8gAAAAJ:Se3iqnhoufwC:
-    citations: 62
+    citations: 64
     title: 'V-strong: Visual self-supervised traversability learning for off-road navigation'
     year: '2024'
   e7X7O8gAAAAJ:Tyk-4Ss8FVUC:
@@ -34,7 +34,7 @@ papers:
     title: '3d-gif: 3d-controllable object generation via implicit factorized representations'
     year: '2022'
   e7X7O8gAAAAJ:UeHWp8X0CEIC:
-    citations: 481
+    citations: 483
     title: 'Robustnet: Improving domain generalization in urban-scene segmentation via instance selective whitening'
     year: '2021'
   e7X7O8gAAAAJ:UebtZRa9Y70C:
@@ -62,6 +62,6 @@ papers:
     title: 'Cafa: Class-aware feature alignment for test-time adaptation'
     year: '2023'
   e7X7O8gAAAAJ:kNdYIx-mwKoC:
-    citations: 4
+    citations: 5
     title: Details matter for indoor open-vocabulary 3D instance segmentation
     year: '2025'
