@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-17'
+  last_updated: '2026-04-20'
 papers:
   e7X7O8gAAAAJ:2osOgNQ5qMEC:
     citations: 213
@@ -34,7 +34,7 @@ papers:
     title: '3d-gif: 3d-controllable object generation via implicit factorized representations'
     year: '2022'
   e7X7O8gAAAAJ:UeHWp8X0CEIC:
-    citations: 483
+    citations: 484
     title: 'Robustnet: Improving domain generalization in urban-scene segmentation via instance selective whitening'
     year: '2021'
   e7X7O8gAAAAJ:UebtZRa9Y70C:
@@ -62,6 +62,6 @@ papers:
     title: 'Cafa: Class-aware feature alignment for test-time adaptation'
     year: '2023'
   e7X7O8gAAAAJ:kNdYIx-mwKoC:
-    citations: 5
+    citations: 6
     title: Details matter for indoor open-vocabulary 3D instance segmentation
     year: '2025'
