@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-05-06'
 papers:
   e7X7O8gAAAAJ:2osOgNQ5qMEC:
     citations: 216
@@ -34,7 +34,7 @@ papers:
     title: '3d-gif: 3d-controllable object generation via implicit factorized representations'
     year: '2022'
   e7X7O8gAAAAJ:UeHWp8X0CEIC:
-    citations: 493
+    citations: 495
     title: 'Robustnet: Improving domain generalization in urban-scene segmentation via instance selective whitening'
     year: '2021'
   e7X7O8gAAAAJ:UebtZRa9Y70C:
@@ -46,7 +46,7 @@ papers:
     title: 'DebiasBench: Benchmark for Fair Comparison of Debiasing in Image Classification'
     year: '2022'
   e7X7O8gAAAAJ:WF5omc3nYNoC:
-    citations: 24
+    citations: 25
     title: 'LiDAR-UDA: Self-ensembling Through Time for Unsupervised LiDAR Domain Adaptation'
     year: '2023'
   e7X7O8gAAAAJ:YsMSGLbcyi4C:
