@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-05-08'
 papers:
   e7X7O8gAAAAJ:2osOgNQ5qMEC:
     citations: 216
@@ -34,7 +34,7 @@ papers:
     title: '3d-gif: 3d-controllable object generation via implicit factorized representations'
     year: '2022'
   e7X7O8gAAAAJ:UeHWp8X0CEIC:
-    citations: 495
+    citations: 494
     title: 'Robustnet: Improving domain generalization in urban-scene segmentation via instance selective whitening'
     year: '2021'
   e7X7O8gAAAAJ:UebtZRa9Y70C:
