@@ -26,6 +26,6 @@ announcements:
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #   limit: 3 # leave blank to include all the blog posts
 ---
-I am a fourth-year PhD candidate at the University of Washington, where I am advised by Prof. Byron Boots. I am interested in visual learning for robotics, bridging the gap between visual perception and robot planning/control.  My recent research covers general robot perceptions problems in robot navigation including vision-language to navigation, traversability prediction from visual cues by self-supervision and representation learning from LiDAR and images.
+I am a final year PhD candidate at the University of Washington, where I am advised by Prof. Byron Boots. I am interested in visual learning for robotics, bridging the gap between visual perception and robot planning/control.  My recent research covers general robot perceptions problems in robot navigation including post-training of VLMs for vision-language to action (VLA), multi-modal post-training of VLMs to support multiple sensor modalities, and visual traversability estimation.
 
 Before starting Ph.D., I earned my M.S. from KAIST (advised by Prof. Jaegul Choo), and B.S. from Korea University. I worked at Bear Robotics for two years as a robotics engineer.
