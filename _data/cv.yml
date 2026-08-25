@@ -4,9 +4,9 @@ cv:
   email: shjung13 [at] cs.washington.edu
   location: Seattle, WA
   image: ""
-  summary: I am a final year PhD candidate at the University of Washington, where I am advised by Prof. Byron Boots. I am interested in visual learning for robotics, bridging the gap between visual perception and robot planning/control.  My recent research covers general robot perceptions problems in robot navigation including post-training of VLMs for vision-language to action (VLA), multi-modal post-training of VLMs to support multiple sensor modalities, and visual traversability estimation.
+  summary: "I am a final year PhD candidate at the University of Washington, where I am advised by Prof. Byron Boots. I am interested in visual learning for robotics, bridging the gap between visual perception and robot planning/control.  My recent research covers general robot perceptions problems in robot navigation including post-training of VLMs for vision-language to action (VLA), multi-modal post-training of VLMs to support multiple sensor modalities, and visual traversability estimation.
 
-Before starting Ph.D., I earned my M.S. from KAIST (advised by Prof. Jaegul Choo), and B.S. from Korea University. I worked at Bear Robotics for two years as a robotics engineer.
+Before starting Ph.D., I earned my M.S. from KAIST (advised by Prof. Jaegul Choo), and B.S. from Korea University. I worked at Bear Robotics for two years as a robotics engineer."
   social_networks:
     - network: GitHub
       username: shjung13
