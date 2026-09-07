@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-09-02'
+  last_updated: '2026-09-07'
 papers:
   e7X7O8gAAAAJ:2osOgNQ5qMEC:
-    citations: 227
+    citations: 229
     title: 'Visualizing for the Non-Visual: Enabling the Visually Impaired to Use Visualization'
     year: '2019'
   e7X7O8gAAAAJ:3fE2CSJIrl8C:
@@ -26,7 +26,7 @@ papers:
     title: Uncertainty-aware Accurate Elevation Modeling for Off-road Navigation via Neural Processes
     year: '2025'
   e7X7O8gAAAAJ:Se3iqnhoufwC:
-    citations: 79
+    citations: 81
     title: 'V-strong: Visual self-supervised traversability learning for off-road navigation'
     year: '2024'
   e7X7O8gAAAAJ:Tyk-4Ss8FVUC:
@@ -38,11 +38,11 @@ papers:
     title: Online World Modeling Enables Real-World Inverse Reinforcement Learning from Observation
     year: Unknown Year
   e7X7O8gAAAAJ:UeHWp8X0CEIC:
-    citations: 543
+    citations: 544
     title: 'Robustnet: Improving domain generalization in urban-scene segmentation via instance selective whitening'
     year: '2021'
   e7X7O8gAAAAJ:UebtZRa9Y70C:
-    citations: 13
+    citations: 14
     title: 'Aim my robot: Precision local navigation to any object'
     year: '2025'
   e7X7O8gAAAAJ:W7OEmFMy1HYC:
@@ -62,7 +62,7 @@ papers:
     title: Planning from Observation and Interaction
     year: '2026'
   e7X7O8gAAAAJ:_FxGoFyzp5QC:
-    citations: 46
+    citations: 48
     title: 'Cafa: Class-aware feature alignment for test-time adaptation'
     year: '2023'
   e7X7O8gAAAAJ:kNdYIx-mwKoC:
